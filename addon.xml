@@ -1,6 +1,6 @@
 <addon id="skin.eminence.v3" name="Eminence" provider-name="idealkooks, originally by jurialmunkey" version="1.0.1">
     <requires>
-        <import addon="xbmc.gui" version="5.17.1" />
+        <import addon="xbmc.gui" version="5.18.0" />
         <import addon="script.skinshortcuts" version="2.0.3" />
         <import addon="plugin.video.themoviedb.helper" version="5.4.19" />
         <import addon="script.image.resource.select" version="3.0.2" />
